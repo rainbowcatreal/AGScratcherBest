@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=30&pause=1000&color=83D3F9&center=true&repeat=false&width=1000&lines=AGScratcherBest)](https://git.io/typing-svg)
 
-### Над чём ты работаешь в GitHub?
+### Что ты делаешь в GitHub?
 Я сам хз.
 
 ### Статистика
